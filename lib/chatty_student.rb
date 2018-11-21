@@ -1,7 +1,7 @@
 class ChattyStudent < Student
   def hello
     super
-     = true
+     puts "How"
   end
 end
   
